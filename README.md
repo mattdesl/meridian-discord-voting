@@ -1,20 +1,13 @@
 # meridian-discord-voting
 
-[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+## Data Collection
 
-
-
-## Install
-
-Use [npm](https://npmjs.com/) to install.
+Date of final Discord scrape:
 
 ```sh
-npm install meridian-discord-voting --save
+Timestamp: 1664293722841
+Date: Tue, 27 Sep 2022 15:48:42 GMT
 ```
-
-## Usage
-
-[![NPM](https://nodei.co/npm/meridian-discord-voting.png)](https://www.npmjs.com/package/meridian-discord-voting)
 
 ## License
 

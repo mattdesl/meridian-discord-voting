@@ -1,0 +1,8002 @@
+{
+  "163000000": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000001": {
+    "Zoom": "Medium",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000002": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000003": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000004": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000005": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000006": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000007": {
+    "Zoom": "Close",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000008": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000009": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000010": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000011": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000012": {
+    "Zoom": "Close",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000013": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000014": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000015": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000016": {
+    "Zoom": "Close",
+    "Style": "Newsprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000017": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000018": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000019": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000020": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000021": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000022": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000023": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000024": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000025": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000026": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000027": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000028": {
+    "Zoom": "Medium",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000029": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000030": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000031": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000032": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000033": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000034": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000035": {
+    "Zoom": "Medium",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000036": {
+    "Zoom": "Close",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000037": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000038": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000039": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000040": {
+    "Zoom": "Close",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000041": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000042": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000043": {
+    "Zoom": "Far",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000044": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000045": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000046": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000047": {
+    "Zoom": "Medium",
+    "Style": "Invert",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000048": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000049": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000050": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000051": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000052": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000053": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000054": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000055": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000056": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000057": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000058": {
+    "Zoom": "Medium",
+    "Style": "Newsprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000059": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000060": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000061": {
+    "Zoom": "Close",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000062": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000063": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000064": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000065": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000066": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000067": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000068": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000069": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000070": {
+    "Zoom": "Far",
+    "Style": "Charcoal",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000071": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000072": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000073": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000074": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000075": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000076": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000077": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000078": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000079": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000080": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000081": {
+    "Zoom": "Medium",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000082": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000083": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000084": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000085": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000086": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000087": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000088": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000089": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000090": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000091": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000092": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000093": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000094": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000095": {
+    "Zoom": "Far",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000096": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000097": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000098": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000099": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000100": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000101": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000102": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000103": {
+    "Zoom": "Far",
+    "Style": "Prime",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000104": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000105": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000106": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000107": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000108": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000109": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000110": {
+    "Zoom": "Far",
+    "Style": "Newsprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000111": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000112": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000113": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000114": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000115": {
+    "Zoom": "Far",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000116": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000117": {
+    "Zoom": "Close",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000118": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000119": {
+    "Zoom": "Medium",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000120": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000121": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000122": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000123": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000124": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000125": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000126": {
+    "Zoom": "Far",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000127": {
+    "Zoom": "Far",
+    "Style": "Prime",
+    "Palette": "Volcano",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000128": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000129": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000130": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000131": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000132": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000133": {
+    "Zoom": "Close",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000134": {
+    "Zoom": "Close",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000135": {
+    "Zoom": "Medium",
+    "Style": "Newsprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000136": {
+    "Zoom": "Far",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000137": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000138": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000139": {
+    "Zoom": "Close",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000140": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000141": {
+    "Zoom": "Close",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000142": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000143": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000144": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000145": {
+    "Zoom": "Close",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000146": {
+    "Zoom": "Far",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000147": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000148": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000149": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000150": {
+    "Zoom": "Far",
+    "Style": "Charcoal",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000151": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000152": {
+    "Zoom": "Far",
+    "Style": "Topographic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000153": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000154": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000155": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000156": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000157": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000158": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000159": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000160": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000161": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000162": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000163": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000164": {
+    "Zoom": "Close",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000165": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000166": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000167": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000168": {
+    "Zoom": "Far",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000169": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000170": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000171": {
+    "Zoom": "Far",
+    "Style": "Prime",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000172": {
+    "Zoom": "Far",
+    "Style": "Charcoal",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000173": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000174": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000175": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000176": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000177": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000178": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000179": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000180": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000181": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000182": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000183": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000184": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000185": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000186": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000187": {
+    "Zoom": "Close",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000188": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000189": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000190": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000191": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000192": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000193": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000194": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000195": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000196": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000197": {
+    "Zoom": "Far",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000198": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000199": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000200": {
+    "Zoom": "Medium",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000201": {
+    "Zoom": "Close",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000202": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000203": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000204": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000205": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000206": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000207": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000208": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000209": {
+    "Zoom": "Close",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000210": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000211": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000212": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000213": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000214": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000215": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000216": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000217": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000218": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000219": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000220": {
+    "Zoom": "Close",
+    "Style": "Newsprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000221": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000222": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000223": {
+    "Zoom": "Close",
+    "Style": "Invert",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000224": {
+    "Zoom": "Medium",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000225": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000226": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000227": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000228": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000229": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000230": {
+    "Zoom": "Far",
+    "Style": "Topographic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000231": {
+    "Zoom": "Close",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000232": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000233": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000234": {
+    "Zoom": "Far",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000235": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000236": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000237": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000238": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000239": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000240": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000241": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000242": {
+    "Zoom": "Far",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000243": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000244": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000245": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000246": {
+    "Zoom": "Medium",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000247": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000248": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000249": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000250": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000251": {
+    "Zoom": "Medium",
+    "Style": "Newsprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000252": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000253": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000254": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000255": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000256": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000257": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000258": {
+    "Zoom": "Far",
+    "Style": "Topographic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000259": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000260": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000261": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000262": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000263": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000264": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000265": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000266": {
+    "Zoom": "Far",
+    "Style": "Charcoal",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000267": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000268": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000269": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000270": {
+    "Zoom": "Medium",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000271": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000272": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000273": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000274": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000275": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000276": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000277": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000278": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000279": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000280": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000281": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000282": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000283": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000284": {
+    "Zoom": "Far",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000285": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000286": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000287": {
+    "Zoom": "Medium",
+    "Style": "Prime",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000288": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000289": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000290": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000291": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000292": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000293": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000294": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000295": {
+    "Zoom": "Close",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000296": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000297": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000298": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000299": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000300": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000301": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000302": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000303": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000304": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000305": {
+    "Zoom": "Close",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000306": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000307": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000308": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000309": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000310": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000311": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000312": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000313": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000314": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000315": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000316": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000317": {
+    "Zoom": "Medium",
+    "Style": "Prime",
+    "Palette": "Reef",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000318": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000319": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000320": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000321": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000322": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000323": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000324": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000325": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000326": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000327": {
+    "Zoom": "Far",
+    "Style": "Topographic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000328": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000329": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000330": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000331": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000332": {
+    "Zoom": "Medium",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000333": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000334": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000335": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000336": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000337": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000338": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000339": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000340": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000341": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000342": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000343": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000344": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000345": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000346": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000347": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000348": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000349": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000350": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000351": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000352": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000353": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000354": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000355": {
+    "Zoom": "Far",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000356": {
+    "Zoom": "Far",
+    "Style": "Invert",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000357": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000358": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000359": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000360": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000361": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000362": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000363": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000364": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000365": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000366": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000367": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000368": {
+    "Zoom": "Medium",
+    "Style": "Invert",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000369": {
+    "Zoom": "Far",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000370": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000371": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000372": {
+    "Zoom": "Close",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000373": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000374": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000375": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000376": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000377": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000378": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000379": {
+    "Zoom": "Far",
+    "Style": "Charcoal",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000380": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000381": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000382": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000383": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000384": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000385": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000386": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000387": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000388": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000389": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000390": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000391": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000392": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000393": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000394": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000395": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000396": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000397": {
+    "Zoom": "Close",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000398": {
+    "Zoom": "Close",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000399": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000400": {
+    "Zoom": "Far",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000401": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000402": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000403": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000404": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000405": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000406": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000407": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000408": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000409": {
+    "Zoom": "Far",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000410": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000411": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000412": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000413": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000414": {
+    "Zoom": "Far",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000415": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000416": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000417": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000418": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000419": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000420": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000421": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000422": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000423": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000424": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000425": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000426": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000427": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000428": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000429": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000430": {
+    "Zoom": "Medium",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000431": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000432": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000433": {
+    "Zoom": "Far",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000434": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000435": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000436": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000437": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000438": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000439": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000440": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000441": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000442": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000443": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000444": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000445": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000446": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000447": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000448": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000449": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000450": {
+    "Zoom": "Close",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000451": {
+    "Zoom": "Far",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000452": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000453": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000454": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000455": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000456": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000457": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000458": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000459": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000460": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000461": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000462": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000463": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000464": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000465": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000466": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000467": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000468": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000469": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000470": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000471": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000472": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000473": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000474": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000475": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000476": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000477": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000478": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000479": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000480": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000481": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000482": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000483": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000484": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000485": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000486": {
+    "Zoom": "Close",
+    "Style": "Newsprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000487": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000488": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000489": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000490": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000491": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000492": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000493": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000494": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000495": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000496": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000497": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000498": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000499": {
+    "Zoom": "Close",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000500": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000501": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000502": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000503": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000504": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000505": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000506": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000507": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000508": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000509": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000510": {
+    "Zoom": "Medium",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000511": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000512": {
+    "Zoom": "Far",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000513": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000514": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000515": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000516": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000517": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000518": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000519": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000520": {
+    "Zoom": "Far",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000521": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000522": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000523": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000524": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000525": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000526": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000527": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000528": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000529": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000530": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000531": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000532": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000533": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000534": {
+    "Zoom": "Close",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000535": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000536": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000537": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000538": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000539": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000540": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000541": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000542": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000543": {
+    "Zoom": "Close",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000544": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000545": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000546": {
+    "Zoom": "Far",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000547": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000548": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000549": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000550": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000551": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000552": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000553": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000554": {
+    "Zoom": "Medium",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000555": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000556": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000557": {
+    "Zoom": "Close",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000558": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000559": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000560": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000561": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000562": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000563": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000564": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000565": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000566": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000567": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000568": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000569": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000570": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000571": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000572": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000573": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000574": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000575": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000576": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000577": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000578": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000579": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000580": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000581": {
+    "Zoom": "Far",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000582": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000583": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000584": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000585": {
+    "Zoom": "Far",
+    "Style": "Newsprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000586": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000587": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000588": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000589": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000590": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000591": {
+    "Zoom": "Far",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000592": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000593": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000594": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000595": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000596": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000597": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000598": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000599": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000600": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000601": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000602": {
+    "Zoom": "Far",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000603": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000604": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000605": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000606": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000607": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000608": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000609": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000610": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000611": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000612": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000613": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000614": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000615": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000616": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000617": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000618": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000619": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000620": {
+    "Zoom": "Far",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000621": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000622": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000623": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000624": {
+    "Zoom": "Far",
+    "Style": "Prime",
+    "Palette": "Esker",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000625": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000626": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000627": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000628": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000629": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000630": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000631": {
+    "Zoom": "Far",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000632": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000633": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000634": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000635": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000636": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000637": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000638": {
+    "Zoom": "Far",
+    "Style": "Charcoal",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000639": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000640": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000641": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000642": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000643": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000644": {
+    "Zoom": "Close",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000645": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000646": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000647": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000648": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000649": {
+    "Zoom": "Far",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000650": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000651": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000652": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000653": {
+    "Zoom": "Far",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000654": {
+    "Zoom": "Close",
+    "Style": "Invert",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000655": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000656": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000657": {
+    "Zoom": "Medium",
+    "Style": "Invert",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000658": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000659": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000660": {
+    "Zoom": "Far",
+    "Style": "Topographic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000661": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000662": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000663": {
+    "Zoom": "Close",
+    "Style": "Invert",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000664": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000665": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000666": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000667": {
+    "Zoom": "Far",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000668": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000669": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000670": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000671": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000672": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000673": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000674": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000675": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000676": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000677": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000678": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000679": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000680": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000681": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000682": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000683": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000684": {
+    "Zoom": "Far",
+    "Style": "Prime",
+    "Palette": "Dune",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000685": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000686": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000687": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000688": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000689": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000690": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000691": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000692": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000693": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000694": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000695": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000696": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000697": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000698": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000699": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000700": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000701": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000702": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000703": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000704": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000705": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000706": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000707": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000708": {
+    "Zoom": "Far",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000709": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000710": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000711": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000712": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000713": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000714": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000715": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000716": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000717": {
+    "Zoom": "Close",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000718": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000719": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000720": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000721": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000722": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000723": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000724": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000725": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000726": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000727": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000728": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000729": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000730": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000731": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000732": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000733": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000734": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000735": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000736": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000737": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000738": {
+    "Zoom": "Far",
+    "Style": "Charcoal",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000739": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000740": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000741": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000742": {
+    "Zoom": "Medium",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000743": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000744": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000745": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000746": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000747": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000748": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000749": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000750": {
+    "Zoom": "Close",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000751": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000752": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000753": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000754": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000755": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000756": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000757": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000758": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Marsh",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000759": {
+    "Zoom": "Far",
+    "Style": "Topographic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000760": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000761": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000762": {
+    "Zoom": "Medium",
+    "Style": "Invert",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000763": {
+    "Zoom": "Far",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000764": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000765": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000766": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000767": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000768": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000769": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000770": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000771": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000772": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000773": {
+    "Zoom": "Medium",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000774": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000775": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000776": {
+    "Zoom": "Close",
+    "Style": "Newsprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000777": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000778": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000779": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000780": {
+    "Zoom": "Close",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000781": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000782": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000783": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000784": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000785": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000786": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000787": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000788": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000789": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000790": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000791": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000792": {
+    "Zoom": "Far",
+    "Style": "Charcoal",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000793": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000794": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000795": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000796": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000797": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000798": {
+    "Zoom": "Far",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000799": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000800": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000801": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000802": {
+    "Zoom": "Far",
+    "Style": "Invert",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000803": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000804": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000805": {
+    "Zoom": "Far",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000806": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000807": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000808": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000809": {
+    "Zoom": "Far",
+    "Style": "Charcoal",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000810": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000811": {
+    "Zoom": "Medium",
+    "Style": "Newsprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000812": {
+    "Zoom": "Far",
+    "Style": "Newsprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000813": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000814": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000815": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000816": {
+    "Zoom": "Medium",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000817": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000818": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000819": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000820": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000821": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000822": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000823": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000824": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000825": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000826": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Ridge",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000827": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000828": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000829": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000830": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000831": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000832": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000833": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000834": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000835": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000836": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000837": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000838": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000839": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000840": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000841": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Canyon",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000842": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000843": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000844": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000845": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000846": {
+    "Zoom": "Far",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000847": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000848": {
+    "Zoom": "Close",
+    "Style": "Newsprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000849": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000850": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000851": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000852": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000853": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000854": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000855": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000856": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000857": {
+    "Zoom": "Far",
+    "Style": "Topographic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000858": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000859": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000860": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000861": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000862": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000863": {
+    "Zoom": "Close",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000864": {
+    "Zoom": "Far",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000865": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000866": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000867": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000868": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Peninsula",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000869": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000870": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000871": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000872": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000873": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000874": {
+    "Zoom": "Close",
+    "Style": "Invert",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000875": {
+    "Zoom": "Far",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000876": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000877": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000878": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000879": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000880": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000881": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000882": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000883": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000884": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000885": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000886": {
+    "Zoom": "Far",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000887": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000888": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000889": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000890": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000891": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Atoll",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000892": {
+    "Zoom": "Far",
+    "Style": "Invert",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000893": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000894": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000895": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000896": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000897": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000898": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000899": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000900": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000901": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000902": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000903": {
+    "Zoom": "Medium",
+    "Style": "Prime",
+    "Palette": "Marsh",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000904": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Shore",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000905": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000906": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000907": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000908": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000909": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000910": {
+    "Zoom": "Medium",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000911": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000912": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000913": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000914": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000915": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000916": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000917": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000918": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000919": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000920": {
+    "Zoom": "Close",
+    "Style": "Gilded",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000921": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000922": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000923": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000924": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000925": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000926": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000927": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000928": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cove",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000929": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000930": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000931": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Moraine",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000932": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000933": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000934": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000935": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000936": {
+    "Zoom": "Medium",
+    "Style": "Invert",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000937": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000938": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000939": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000940": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000941": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000942": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000943": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000944": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000945": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000946": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000947": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Volcano",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000948": {
+    "Zoom": "Far",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000949": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Glacier",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000950": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000951": {
+    "Zoom": "Close",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000952": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000953": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000954": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000955": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000956": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000957": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000958": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Prairie",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000959": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Oasis",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000960": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000961": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000962": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000963": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000964": {
+    "Zoom": "Medium",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000965": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000966": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000967": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000968": {
+    "Zoom": "Close",
+    "Style": "Invert",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Monochrome"
+  },
+  "163000969": {
+    "Zoom": "Far",
+    "Style": "Screenprint",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000970": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Duochrome"
+  },
+  "163000971": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000972": {
+    "Zoom": "Far",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000973": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000974": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Gulf",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000975": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000976": {
+    "Zoom": "Close",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000977": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Delta",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000978": {
+    "Zoom": "Far",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000979": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000980": {
+    "Zoom": "Close",
+    "Style": "Watercolour",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000981": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000982": {
+    "Zoom": "Close",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000983": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Archipelago",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000984": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000985": {
+    "Zoom": "Medium",
+    "Style": "Lino",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000986": {
+    "Zoom": "Far",
+    "Style": "Paletted",
+    "Palette": "Cave",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000987": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Fjord",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000988": {
+    "Zoom": "Far",
+    "Style": "Topographic",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000989": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000990": {
+    "Zoom": "Far",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Gradual",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000991": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Dune",
+    "Frequency": "High",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000992": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Mesa",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000993": {
+    "Zoom": "Medium",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  },
+  "163000994": {
+    "Zoom": "Medium",
+    "Style": "Procedural",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Uniform",
+    "Chromaticity": "Monochrome"
+  },
+  "163000995": {
+    "Zoom": "Medium",
+    "Style": "Paletted",
+    "Palette": "Reef",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000996": {
+    "Zoom": "Medium",
+    "Style": "Polarized",
+    "Palette": "Other",
+    "Frequency": "Standard",
+    "Structure": "Variable",
+    "Chromaticity": "Trichrome"
+  },
+  "163000997": {
+    "Zoom": "Close",
+    "Style": "Gouache",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Duochrome"
+  },
+  "163000998": {
+    "Zoom": "Close",
+    "Style": "Prismatic",
+    "Palette": "Other",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Polychrome"
+  },
+  "163000999": {
+    "Zoom": "Close",
+    "Style": "Paletted",
+    "Palette": "Esker",
+    "Frequency": "Low",
+    "Structure": "Uniform",
+    "Chromaticity": "Trichrome"
+  }
+}

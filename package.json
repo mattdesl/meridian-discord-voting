@@ -9,8 +9,13 @@
     "email": "dave.des@gmail.com",
     "url": "https://github.com/mattdesl"
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dateformat": "^5.0.3",
+    "dotenv": "^16.0.2",
+    "moment": "^2.29.4",
+    "web3": "^1.8.0"
+  },
   "scripts": {
     "test": "node test.js"
   },
