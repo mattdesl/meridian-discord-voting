@@ -19,6 +19,8 @@ D = fbb28a230d18c91461863fa2818876537474f2a75bd75345d1aedf368eaa1c4f
 E = 5e11097b39ffe5de9386b43bc2576fb69ea0bdb6dc900a85d5156b5773efd9e8
 ```
 
+These were published on [Twitter](https://twitter.com/mattdesl/status/1574866811987927040) and [Farcaster](farcaster://casts/0x0715896c86914e3d203028fb003f60ef8faa53640d4a1e768d0029474eeccd01/0x0715896c86914e3d203028fb003f60ef8faa53640d4a1e768d0029474eeccd01) on September 27, 2022.
+
 ## Data Collection
 
 Date of final Discord scrape:
