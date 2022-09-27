@@ -30,6 +30,16 @@ Timestamp: 1664293722841
 Date: Tue, 27 Sep 2022 15:48:42 GMT
 ```
 
+## Thanks to
+
+Thanks to the following people who helped review the scheme for this ceremony:
+
+- Piter Pasma (@piterpasma)
+- Alexis André (@MacTuitui)
+- Tim Beiko (@TimBeiko)
+
+The scheme may not be perfect. Feel free to send feedback.
+
 ## License
 
 MIT, see [LICENSE.md](http://github.com/mattdesl/meridian-discord-voting/blob/master/LICENSE.md) for details.
