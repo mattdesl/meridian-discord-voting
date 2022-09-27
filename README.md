@@ -3,17 +3,20 @@
 ## Commitments
 
 ```sh
-# SHA256(secretKey)
-A = cfa06112e92f6c525bb6baedc719c8cc0741d98133d5b3ff4db15e8cdc11ab37
-
 # blockNumber
-B = 15632936
+A = 15632936
+
+# SHA256(secretKey)
+B = 189bc0e76a8ef2ab969fc9a347908727dcabab7daf932c5501eeb74403e1beb3
 
 # SHA256(raffle_book.csv)
 C = d577870690325eebc1da51d0f65bea56525fdcf55354eadafff17257839d18f4
 
 # SHA256(raffle_nft.csv)
 D = fbb28a230d18c91461863fa2818876537474f2a75bd75345d1aedf368eaa1c4f
+
+# SHA256(raffle-select.js)
+E = b3688eb4c28f28c2ca023152612ce33bcd0913db127d948beda8f83b5fedb80c
 ```
 
 ## Data Collection
