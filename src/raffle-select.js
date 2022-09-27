@@ -16,8 +16,9 @@ async function run() {
     )
   );
 
-  // This should be proposed on or around Wed, 28 Sep 2022 10:00:11 GMT
-  const BLOCK_NUMBER = 15631133;
+  // This should be proposed on or around Wed, 28 Sep 2022 16:01:35 GMT
+  // To coincide with the 1 year anniversary of Meridian's public minting
+  const BLOCK_NUMBER = 15632936;
 
   // Fetch the block from Ethereum
   const block = await web3.eth.getBlock(BLOCK_NUMBER);

@@ -30,9 +30,9 @@ const BN = Web3.utils.BN;
     const monthIndex = month - 1;
     const dayOfMonth = 28;
     const year = 2022;
-    const hourInUTC = 10;
-    const minute = 0;
-    const second = 12;
+    const hourInUTC = 16;
+    const minute = 1;
+    const second = 39;
     const endDate = new Date(
       Date.UTC(year, monthIndex, dayOfMonth, hourInUTC, minute, second)
     );
