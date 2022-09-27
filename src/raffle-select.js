@@ -34,9 +34,9 @@ async function run() {
   const ARTIST_KEY = process.env.RANDOM_VALUE;
 
   // Display setup parameters
-  console.log("Artist Key:", ARTIST_KEY);
   console.log("Block Number:", block.number);
   console.log("Block Time:", new Date(block.timestamp * 1000).toUTCString());
+  console.log("Artist Key:", ARTIST_KEY);
   console.log("Block Key:", BLOCK_KEY);
 
   // XOR the two keys to get a PRNG seed

@@ -21,7 +21,7 @@ const STYLE_TYPES = [
   "Watercolour",
 ];
 
-const data = require("../votes/output.json");
+const data = require("../output/discord_messages.json");
 
 const getStyle = (id) => {
   const tokenId = String(id + 163000000);
@@ -166,6 +166,7 @@ const getStyle = (id) => {
     // );
   }
 
+  console.log("Number of Users in Book Raffle:", raffleBook);
   console.log("Number of Users in NFT Raffle:", raffleNFT);
   console.log("Meridian IDs receiving 1 or more votes:", idsVotedFor.size);
   console.log("Total Reactions Counted:", totalEmojis);
