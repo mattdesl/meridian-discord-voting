@@ -20,14 +20,16 @@ async function run() {
   const BLOCK_NUMBER = 15631133;
 
   // Fetch the block from Ethereum
-  // const block = await web3.eth.getBlock(15631131);
-  const block = await web3.eth.getBlock(await web3.eth.getBlockNumber());
+  const block = await web3.eth.getBlock(BLOCK_NUMBER);
+  if (!block) {
+    throw new Error(`Block ${BLOCK_NUMBER} has not been proposed yet.`);
+  }
 
   // Get the PREVRANDAO value stored in mixHash
   const BLOCK_KEY = "0x" + BN(block.mixHash).toJSON();
 
   // A 256-bit number selected by the artist @mattdesl
-  // As a hex string
+  // As a 0x-prefixed hex string
   const ARTIST_KEY = process.env.RANDOM_VALUE;
 
   // Display setup parameters
@@ -36,7 +38,7 @@ async function run() {
   console.log("Block Time:", new Date(block.timestamp * 1000).toUTCString());
   console.log("Block Key:", BLOCK_KEY);
 
-  // XOR the two values to get a PRNG seed
+  // XOR the two keys to get a PRNG seed
   const mixA = BN(ARTIST_KEY);
   const mixB = BN(BLOCK_KEY);
   const seed = mixA.xor(mixB);
