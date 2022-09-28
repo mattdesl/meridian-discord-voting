@@ -26,6 +26,7 @@ The ceremony will use two random integers:
 
 - `BLOCK_KEY` — this is a 256-bit integer from `block.mixHash` (PREVRANDAO value) of Ethereum mainnet block `15632936`
 - `ARTIST_KEY` — this is a 256-bit random integer that I generated prior to the raffle, and which I will only reveal after the ceremony
+  - _Update:_ The key is `0x03b759591672914fb41f4680704fd9bb7de51b0ddf9388d94a4132b23c7c90b9`
 
 After Ethereum finalizes block `15632936` (around Wed, 28 Sep 2022 16:01:35 GMT), I will run the [raffle script](./src/raffle-select.js) to find the winning usernames for each raffle. This does the following:
 
@@ -126,6 +127,24 @@ Some additional data points computed from the 6,962 scraped Discord messages in 
 - **Total Emoji Reactions Counted:** 839
 - **Top Emoji Reaction:** ❤️ (x365)
 - **Emojis Reactions:** ❤️, 🔥, 🤌, 💙, 😍, 🤍, 💯, 👀, 🙌, 👍, 🤝, 🍻, ✅, 🆓, ❤️‍🔥, 🎉, 👍🏻, 🌈, 🐻, 🍕, ✌️, 💪🏻, 🐸, ➕, 😊, 🤯, 😌, 🤣, 🌄, 🙃, 🤌🏼, 🙏, ❓, 🍦, 🍊
+
+## \[Update Sept 28\] Computing the Raffle Results
+
+Now that [block 15632936](https://etherscan.io/block/15632936#consensusinfo) has been finalized, you can confirm its RANDAO value as the `BLOCK_KEY` and combine it with the now-revealed `ARTIST_KEY` to compute the final winning entrants:
+
+```
+Block Number: 15632936
+Block Time: Wed, 28 Sep 2022 16:09:11 GMT
+Artist Key: 0x03b759591672914fb41f4680704fd9bb7de51b0ddf9388d94a4132b23c7c90b9
+Block Key: 0x209d3e10775c8754fc1dbaa3e9d967d7c2649735934b561db0e3f77acd279bd0
+PRNG Seed: 0x232a6749612e161b4802fc239996be6cbf818c384cd8dec4faa2c5c8f15b0b69
+
+Winners:
+  - Raffle A (Book) Winning ID: 226
+  - Raffle B (NFT) Winning ID: 159
+```
+
+The book winner is `@Arad#0019` and the NFT winner is `@MELLIA#3363`. 🎉
 
 ## License
 
