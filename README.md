@@ -40,7 +40,7 @@ Theoretically, it _is_ possible (albeit extremely unlikely) that a colluding gro
 
 This means that even though a validator could potentially bias RANDAO, they would not be able to predict in which way their bias would affect the raffle output.
 
-Because of this, the ceremony is not completely trust-minimized, as you also have to trust that I am not running many costly Ethereum validator nodes to try and influence my own raffle. :)
+Because of this, the ceremony is not completely trust-minimized, as you also have to trust that I am not staking so much ETH that I can bias the RANDAO value (the cost of this biasing would be in the tens of millions of USD).[^4]
 
 #### SHA-256 Commitments
 
@@ -130,3 +130,4 @@ MIT, see [LICENSE.md](http://github.com/mattdesl/meridian-discord-voting/blob/ma
 [^1]: You can read more about the mechanics of RANDAO [here](https://eth2book.info/altair/part2/building_blocks/randomness#updating-the-randao).
 [^2]: This integer is computed by aggregating the BLS signature of each block producer.
 [^3]: Reference: https://github.com/bryc/code/blob/master/jshash/PRNGs.md#sfc32
+[^4]: Statistical analysis on Ethereum k-consecutive block proposal probabilities: https://alrevuelta.github.io/posts/ethereum-mev-multiblock
