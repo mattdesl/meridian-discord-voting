@@ -40,7 +40,7 @@ Theoretically, it _is_ possible (albeit extremely unlikely) that a colluding gro
 
 This means that even though a validator could potentially bias RANDAO, they would not be able to predict in which way their bias would affect the raffle output.
 
-Because of this, the ceremony is not _completely_ trust-minimized, as you also have to trust that I am not staking so much ETH that I can influence the raffle (the cost of reliably biasing RANDAO is in the order of hundreds of millions of USD).[^4] :)
+Because of this, the ceremony is not _completely_ trust-minimized, as you also have to trust that I am not staking so much ETH that I can influence the raffle (the cost of reliably biasing RANDAO is in the order of hundreds of millions of USD).[^4]
 
 #### SHA-256 Commitments
 
