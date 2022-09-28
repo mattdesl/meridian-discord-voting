@@ -14,7 +14,9 @@ ers.
 
 ## Trusted Setup Ceremony
 
-To create a fair raffle, I've decided to use a bit of cryptography and single leader election driven by Ethereum's new Proof of Stake RANDAO mechanism[^1]. In Ethereum, each new block proposed to the network includes a `PREVRANDAO` field, which is a pseudo-random 256-bit integer.[^2] This integer will be used as a seed to select the raffle winners randomly from the list of eligible us
+To create a fair raffle, I've decided to use a bit of cryptography and single leader election driven by Ethereum's new Proof of Stake RANDAO mechanism[^1]. In Ethereum, each new block proposed to the network includes a `PREVRANDAO` field, which is a pseudo-random 256-bit integer.[^2] This integer will be used as a seed to select the raffle winners randomly from the list of eligible users.
+
+The goal of this ceremony is to ensure that no single party, even myself, can significantly bias and influence the raffle results, _and_ to ensure this can be verified after the fact using cryptography and math.
 
 > ###### 🎨✨ Consider this ceremony partly an artistic performance using the blockchain, and partly a multi-party computation scheme for a cryptographically verifiable random raffle.
 
