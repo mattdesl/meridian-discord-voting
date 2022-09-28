@@ -106,13 +106,7 @@ This repository includes a set of utilities and functions around the ceremony th
 - [scrape-discord](./src/scrape-discord.js) — tools for scraping discord messages en masse
 - [raffle-select](./src/raffle-select.js) — the actual raffle program
 
-You will need to add a `.env` file in the repository with your own private (secret) configuration:
-
-```
-INFURA_API_KEY="YOUR_API_KEY_VALUE"
-DISCORD_TOKEN="YOUR_TOKEN_KEY_VALUE"
-RANDOM_VALUE="THE_ARTIST_KEY_VALUE"
-```
+See [Running Locally](#running-locally) for details.
 
 ## Voting Results
 
@@ -127,6 +121,20 @@ Some additional data points computed from the 6,962 scraped Discord messages in 
 - **Total Emoji Reactions Counted:** 839
 - **Top Emoji Reaction:** ❤️ (x365)
 - **Emojis Reactions:** ❤️, 🔥, 🤌, 💙, 😍, 🤍, 💯, 👀, 🙌, 👍, 🤝, 🍻, ✅, 🆓, ❤️‍🔥, 🎉, 👍🏻, 🌈, 🐻, 🍕, ✌️, 💪🏻, 🐸, ➕, 😊, 🤯, 😌, 🤣, 🌄, 🙃, 🤌🏼, 🙏, ❓, 🍦, 🍊
+
+## Running Locally
+
+Using node v16+ you first need to `npm install` within the repository. Then, add a `.env` file in the repository with your own private (secret) configuration:
+
+```
+INFURA_API_KEY="YOUR_API_KEY_VALUE"
+DISCORD_TOKEN="YOUR_TOKEN_KEY_VALUE"
+RANDOM_VALUE="0x03b759591672914fb41f4680704fd9bb7de51b0ddf9388d94a4132b23c7c90b9"
+```
+
+The `RANDOM_VALUE` is the now-revealed `ARTIST_KEY`.
+
+Then you can run `node src/raffle-select.js` and other scripts.
 
 ## \[Update Sept 28\] Computing the Raffle Results
 
