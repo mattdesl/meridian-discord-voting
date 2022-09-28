@@ -122,9 +122,6 @@ const getStyle = (id) => {
 
   for (let [user, voteSet] of votes.entries()) {
     const userData = users.get(user);
-    if (optedOutUsers.includes(user)) {
-      continue;
-    }
 
     const styleSetForUser = new Set();
 
@@ -133,6 +130,11 @@ const getStyle = (id) => {
       styleSetForUser.add(style);
       idsVotedFor.add(id);
     }
+
+    if (optedOutUsers.includes(user)) {
+      continue;
+    }
+
     const userNameFull = `${userData.username}#${userData.discriminator}`;
     const stylesMissing = STYLE_TYPES.filter(
       (t) => !styleSetForUser.has(t)
