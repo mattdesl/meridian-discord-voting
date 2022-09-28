@@ -1,5 +1,7 @@
 # Meridian "Community Curated" Raffle
 
+<img src="data/randao-banner1.jpg" width="100%" />
+
 From Sept 15 to 23, users had a chance to vote on their favourite [Meridians](https://meridian.mattdesl.com/) within the Art Blocks `#matt-deslauriers` Discord channel to influence the "Community Curated" chapter of the upcoming [Meridian book](https://vetroeditions.com/products/meridian).
 
 As a bonus, and to celebrate the 1-year anniversary of Meridian's release on September 28th, users who voted have been placed into two separate raffles:
